@@ -259,6 +259,14 @@
   {
    "label": "Ελληνικά",
    "repo": "apis-scraping-eshop-greece"
+  },
+  {
+   "label": "Deutsch",
+   "repo": "apis-scraping-e-commerce-deutschland"
+  },
+  {
+   "label": "Italiano",
+   "repo": "apis-scraping-ecommerce-italia"
   }
  ]
 }
