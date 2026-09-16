@@ -238,5 +238,27 @@
    "Do I need proxies or my own servers?",
    "No. The actors run in the Apify cloud and handle proxies, browsers and anti-bot measures for you."
   ]
+ ],
+ "languages": [
+  {
+   "label": "English",
+   "repo": "ecommerce-scraping-apis"
+  },
+  {
+   "label": "Español",
+   "repo": "apis-scraping-comercio-electronico"
+  },
+  {
+   "label": "Português",
+   "repo": "apis-scraping-ecommerce-brasil"
+  },
+  {
+   "label": "Français",
+   "repo": "apis-scraping-e-commerce-france"
+  },
+  {
+   "label": "Ελληνικά",
+   "repo": "apis-scraping-eshop-greece"
+  }
  ]
 }
