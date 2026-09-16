@@ -1,0 +1,242 @@
+{
+ "repo": "ecommerce-scraping-apis",
+ "title": "E-commerce Scraping APIs",
+ "tagline": "The most used e-commerce scrapers on Apify, ranked by real monthly users: Amazon, Shopify, eBay, Walmart, AliExpress, Temu, Etsy and Google Shopping product data, prices, reviews, sellers and stock. No code, export to CSV, Excel or JSON.",
+ "brand": "AutomationByExperts",
+ "storeCategory": "ECOMMERCE",
+ "storeCategoryLabel": "E-commerce",
+ "fetchLimit": 1500,
+ "topCount": 25,
+ "intro": "A curated, weekly updated list of the {count} e-commerce actors that people actually use, picked from the {storeTotal} actors in the Apify Store E-commerce category. Actors nobody ran in the last 30 days are left out, and each one is filed under the store or job it covers, so you can find a working tool for product research, price monitoring, review analysis or dropshipping in seconds instead of testing dozens.",
+ "exampleActor": "junglee/amazon-crawler",
+ "exampleInput": {
+  "categoryOrProductUrls": [
+   {
+    "url": "https://www.amazon.com/s?k=wireless+earbuds"
+   }
+  ],
+  "maxItemsPerStartUrl": 50
+ },
+ "groups": [
+  {
+   "slug": "amazon",
+   "title": "Amazon",
+   "blurb": "Amazon products, prices, BSR, sellers, offers and reviews across every Amazon marketplace.",
+   "keywords": [
+    "amazon",
+    "asin"
+   ]
+  },
+  {
+   "slug": "shopify-stores",
+   "title": "Shopify and Online Stores",
+   "blurb": "Full product catalogs from Shopify, WooCommerce and any other online store, plus store discovery.",
+   "keywords": [
+    "shopify",
+    "woocommerce",
+    "bigcommerce",
+    "magento",
+    "wix",
+    "online store",
+    "ecommerce store",
+    "e-commerce store",
+    "store leads"
+   ]
+  },
+  {
+   "slug": "chinese-marketplaces",
+   "title": "AliExpress, Temu, Shein and Alibaba",
+   "blurb": "Supplier and product data for dropshipping and sourcing from Chinese marketplaces.",
+   "keywords": [
+    "aliexpress",
+    "temu",
+    "shein",
+    "alibaba",
+    "1688",
+    "taobao",
+    "dhgate",
+    "made-in-china",
+    "tiktok shop"
+   ]
+  },
+  {
+   "slug": "ebay-etsy",
+   "title": "eBay and Etsy",
+   "blurb": "Listings, sold prices, sellers and reviews from eBay and Etsy.",
+   "keywords": [
+    "ebay",
+    "etsy"
+   ]
+  },
+  {
+   "slug": "us-retailers",
+   "title": "Walmart, Target and Big Retailers",
+   "blurb": "Product, price and stock data from big retail chains and supermarkets in the US, UK and Australia.",
+   "keywords": [
+    "walmart",
+    "target.com",
+    "target scraper",
+    "target product",
+    "costco",
+    "best buy",
+    "bestbuy",
+    "home depot",
+    "homedepot",
+    "lowe's",
+    "lowes",
+    "kroger",
+    "instacart",
+    "wayfair",
+    "macy",
+    "sephora",
+    "ulta",
+    "nordstrom",
+    "chewy",
+    "walgreens",
+    "sam's club",
+    "woolworths",
+    "coles",
+    "tesco",
+    "sainsbury",
+    "argos",
+    "aldi",
+    "lidl",
+    "carrefour",
+    "albert heijn"
+   ]
+  },
+  {
+   "slug": "price-comparison",
+   "title": "Google Shopping and Price Comparison",
+   "blurb": "Compare prices across sellers, track price drops and monitor competitors.",
+   "keywords": [
+    "google shopping",
+    "price comparison",
+    "price tracker",
+    "price monitor",
+    "idealo",
+    "pricerunner",
+    "skroutz",
+    "keepa",
+    "camelcamel",
+    "price history",
+    "competitor price",
+    "map violation",
+    "price checker"
+   ]
+  },
+  {
+   "slug": "global-marketplaces",
+   "title": "Regional Marketplaces",
+   "blurb": "Mercado Libre, Flipkart, Shopee, Lazada, Rakuten, Zalando, Allegro, OLX, Vinted and other marketplaces around the world.",
+   "keywords": [
+    "mercado",
+    "flipkart",
+    "shopee",
+    "lazada",
+    "rakuten",
+    "zalando",
+    "allegro",
+    "olx",
+    "vinted",
+    "coupang",
+    "noon",
+    "jumia",
+    "tokopedia",
+    "bol.com",
+    "otto",
+    "cdiscount",
+    "fnac",
+    "wallapop",
+    "kaufland",
+    "trendyol",
+    "ozon",
+    "wildberries",
+    "avito",
+    "marktplaats",
+    "leboncoin",
+    "kleinanzeigen",
+    "craigslist",
+    "facebook marketplace",
+    "gumtree",
+    "depop",
+    "poshmark",
+    "mercari",
+    "grailed",
+    "stockx",
+    "farfetch",
+    "asos",
+    "ikea",
+    "carousell",
+    "meesho",
+    "myntra",
+    "daraz",
+    "tiki",
+    "blibli",
+    "falabella",
+    "jd.com",
+    "g2g"
+   ]
+  },
+  {
+   "slug": "reviews",
+   "title": "Product Reviews and Ratings",
+   "blurb": "Customer reviews, ratings and Q&A for sentiment analysis and product research.",
+   "keywords": [
+    "review",
+    "rating",
+    "trustpilot"
+   ]
+  },
+  {
+   "slug": "ads-and-trends",
+   "title": "Product Ads and Trends",
+   "blurb": "Winning products, ad libraries and search trends for dropshipping and product research.",
+   "keywords": [
+    "ads library",
+    "ad library",
+    "trend",
+    "winning product",
+    "dropship",
+    "best seller",
+    "bestseller"
+   ]
+  }
+ ],
+ "fallbackGroup": {
+  "slug": "other-ecommerce",
+  "title": "Other E-commerce Tools",
+  "blurb": "Grocery, food delivery, travel deals, coupons, domain and niche product sources.",
+  "keywords": []
+ },
+ "featured": [
+  "cheap-amazon-scraper",
+  "multi-marketplace-price-checker",
+  "competitor-price-tracker-price-comparison-by-product-url",
+  "map-violation-monitor",
+  "brand-abuse-counterfeit-detector",
+  "skroutz-scraper",
+  "fnac-data-scraping",
+  "wallapop-scraper",
+  "g2g-offer-scraper",
+  "website-change-monitor"
+ ],
+ "faq": [
+  [
+   "What is the best Amazon scraper?",
+   "The most used ones are at the top of the Amazon group above. Check which marketplaces and fields each supports (reviews, offers and BSR are often separate actors), then run a small test."
+  ],
+  [
+   "Can I monitor competitor prices automatically?",
+   "Yes. Schedule any product or price actor to run daily, and use the Price Comparison group for tools built for tracking changes over time."
+  ],
+  [
+   "Is scraping product data legal?",
+   "Collecting publicly visible product and price information is common practice, but check the terms of the site and the laws where you operate, and never collect personal data you do not need."
+  ],
+  [
+   "Do I need proxies or my own servers?",
+   "No. The actors run in the Apify cloud and handle proxies, browsers and anti-bot measures for you."
+  ]
+ ]
+}
