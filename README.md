@@ -158,6 +158,8 @@ Listings, sold prices, sellers and reviews from eBay and Etsy.
 | [eBay Scraper - Listings, Prices & Item Details (8 Sites)](https://apify.com/khadinakbar/ebay-all-in-one-scraper?fpr=youssef) <br><sub>by Khadin Akbar</sub> | Scrape active eBay listings by keyword or item URL on 8 eBay sites: price, shipping, total, condition, bids, sold count, seller, specifics. Fast... | 60 | - |
 | [Etsy Reviews](https://apify.com/hello.datawizards/etsy-reviews?fpr=youssef) <br><sub>by datawizards</sub> | Quickly extract detailed customer reviews from Etsy product listings. Perfect for Etsy sellers and analysts! | 41 | 5 (2) |
 | [Etsy Trending Products Tracker](https://apify.com/axlymxp/etsy-trending-products-tracker?fpr=youssef) <br><sub>by axly</sub> | Track which Etsy products are gaining popularity fastest. Monitors keywords across scheduled runs and ranks listings by favorites velocity, plus... | 35 | - |
+| [Etsy Search Scraper](https://apify.com/publicrecords/etsy-search-scraper) <br><sub>by Public Records</sub> | Etsy search results by keyword: price, rating, reviews, Bestseller badge, ad flag, rank. | - | - |
+| [Etsy Shop Daily Sales](https://apify.com/publicrecords/etsy-shop-velocity) <br><sub>by Public Records</sub> | Daily, 7-day and 28-day sales for Etsy shops from each shop's public sales counter. | - | - |
 
 [See all 59 eBay and Etsy actors](groups/ebay-etsy.md)
 
